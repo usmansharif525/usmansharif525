@@ -1,16 +1,39 @@
-![Header](https://your-banner-image-url)
+![Header](https://media.licdn.com/dms/image/D4D16AQF6OzIFiD_4yw/profile-displaybackgroundimage-shrink_350_1400/0/1675616576603?e=1684972800&v=beta&t=YgKkT2L7xJ60Oq571QJeYye7tFDpqsAq5uJxugxu4Mc)
 
-# Hi, I'm Usman Sharif! 👋
+# 🌟 Hi, I'm Usman Sharif! 👋
 
 I'm a **Software Engineer** with a passion for technology and innovation. With over 7 years of experience, I've had the privilege of working with diverse technologies and frameworks, from Web3 and Blockchain to traditional web development.
 
 🌱 I'm always eager to learn, grow, and explore new domains in the tech landscape.
 
-## 🚀 Skills
+## 🔧 Skills
 
-```python
-languages = ['Python', 'PHP', 'JavaScript (ES5 & ES6)']
-web3_blockchain = ['Ethereum Virtual Machine', 'Smart Contracts', 'Solidity', 'IPFS', 'OrbitDB']
-frameworks = ['ReactJs', 'Laravel', 'Angular', 'WordPress', 'Ionic Framework']
-databases = ['MySQL', 'PostgreSQL', 'NoSQL']
-tools = ['Web3.js', 'Ethers.js', 'Web3.py', 'Git Version Control'] ```
+- **Languages**: Python, PHP, JavaScript (ES5 & ES6)
+- **Web3 & Blockchain**: Ethereum Virtual Machine, Smart Contracts, Solidity, IPFS, OrbitDB
+- **Frameworks & Libraries**: ReactJs, Laravel, Angular, WordPress, Ionic Framework
+- **Databases**: MySQL, PostgreSQL, NoSQL
+- **Tools & Technologies**: Web3.js, Ethers.js, Web3.py, Git Version Control
+
+## 🎓 Education
+
+- 🎓 **Software Engineering** at Virtual University, Pakistan (Oct 2014 - Oct 2018)
+
+## 🎨 Interests
+
+- 🌐 Decentralized technologies and their applications
+- 📱 Mobile and web app development
+- 🚀 Exploring new languages, frameworks, and tools
+- 💡 Creating innovative solutions to complex problems
+
+## 🌐 Stats
+
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmansharif525&show_icons=true&theme=radical)
+
+_Replace `yourusername` with your actual GitHub username._
+
+## 💌 Let's Connect!
+
+- 📧 Email: [usman.sharif525@gmail.com](mailto:usman.sharif525@gmail.com)
+- 💼 LinkedIn: [Usman Sharif](https://www.linkedin.com/in/usmansharifgujjar)
+
+_You can also add other social media profiles or contact information as you prefer._
