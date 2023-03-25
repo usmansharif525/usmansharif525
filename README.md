@@ -14,6 +14,8 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 - **Databases**: MySQL, PostgreSQL, NoSQL
 - **Tools & Technologies**: Web3.js, Ethers.js, Web3.py, Git Version Control
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,fastapi,php,laravel,mysql,mongodb,md,linux,nodejs,postgres,react,electron,sqlite,solidity,tailwind,jquery,ipfs,git,docker)](https://usmansharif.com)
+
 ## 🎓 Education
 
 - 🎓 **Software Engineering** at Virtual University, Pakistan (Oct 2014 - Oct 2018)
@@ -29,11 +31,8 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmansharif525&show_icons=true&theme=radical)
 
-_Replace `yourusername` with your actual GitHub username._
-
 ## 💌 Let's Connect!
 
 - 📧 Email: [usman.sharif525@gmail.com](mailto:usman.sharif525@gmail.com)
 - 💼 LinkedIn: [Usman Sharif](https://www.linkedin.com/in/usmansharifgujjar)
-
-_You can also add other social media profiles or contact information as you prefer._
+- 💻 Skype: usman8881212
