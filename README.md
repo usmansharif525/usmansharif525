@@ -34,5 +34,5 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 ## 💌 Let's Connect!
 
 - 📧 Email: [usman.sharif525@gmail.com](mailto:usman.sharif525@gmail.com)
-- 💼 LinkedIn: [Usman Sharif](https://www.linkedin.com/in/usmansharifgujjar)
+- 💼 LinkedIn: [linkedin.com/in/usmansharifgujjar](https://www.linkedin.com/in/usmansharifgujjar)
 - 💻 Skype: usman8881212
