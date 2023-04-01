@@ -1,4 +1,4 @@
-![Header](https://media.licdn.com/dms/image/D4D16AQF6OzIFiD_4yw/profile-displaybackgroundimage-shrink_350_1400/0/1675616576603?e=1684972800&v=beta&t=YgKkT2L7xJ60Oq571QJeYye7tFDpqsAq5uJxugxu4Mc)
+[![Header](https://media.licdn.com/dms/image/D4D16AQF6OzIFiD_4yw/profile-displaybackgroundimage-shrink_350_1400/0/1675616576603?e=1684972800&v=beta&t=YgKkT2L7xJ60Oq571QJeYye7tFDpqsAq5uJxugxu4Mc)](https://usmansharif.com)
 
 # 🌟 Hi, I'm Usman Sharif! 👋
 
@@ -11,7 +11,7 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 - **Languages**: Python, PHP, JavaScript (ES5 & ES6)
 - **Web3 & Blockchain**: Ethereum Virtual Machine, Smart Contracts, Solidity, IPFS, OrbitDB
 - **Frameworks & Libraries**: ReactJs, Laravel, Angular, WordPress, Ionic Framework
-- **Databases**: MySQL, PostgreSQL, NoSQL
+- **Databases**: MySQL, PostgreSQL, NoSQL, OrbitDB
 - **Tools & Technologies**: Web3.js, Ethers.js, Web3.py, Git Version Control
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,fastapi,php,laravel,mysql,mongodb,md,linux,nodejs,postgres,react,electron,sqlite,solidity,tailwind,jquery,ipfs,git,docker)](https://usmansharif.com)
