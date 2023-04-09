@@ -1,5 +1,3 @@
-[![Header](https://media.licdn.com/dms/image/D4D16AQF6OzIFiD_4yw/profile-displaybackgroundimage-shrink_350_1400/0/1675616576603?e=1684972800&v=beta&t=YgKkT2L7xJ60Oq571QJeYye7tFDpqsAq5uJxugxu4Mc)](https://usmansharif.com)
-
 # 🌟 Hi, I'm Usman Sharif! 👋
 
 I'm a **Software Engineer** with a passion for technology and innovation. With over 7 years of experience, I've had the privilege of working with diverse technologies and frameworks, from Web3 and Blockchain to traditional web development.
