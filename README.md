@@ -25,9 +25,6 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 - 🚀 Exploring new languages, frameworks, and tools
 - 💡 Creating innovative solutions to complex problems
 
-## 🌐 Stats
-
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmansharif525&show_icons=true&theme=radical)
 
 ## 💌 Let's Connect!
 
