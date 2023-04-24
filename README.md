@@ -16,7 +16,7 @@ I'm a **Software Engineer** with a passion for technology and innovation. With o
 
 ## 🎓 Education
 
-- 🎓 **Software Engineering** at Virtual University, Pakistan (Oct 2014 - Oct 2018)
+- 🎓 **Software Engineering** at Virtual University, Pakistan
 
 ## 🎨 Interests
 
